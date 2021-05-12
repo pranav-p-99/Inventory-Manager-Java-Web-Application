@@ -2,7 +2,7 @@
 
 ## This project was made as a part of Virtusa Placement Drive 2020.
 
-### RQUIREMENTS :-
+### Requirements :-
 <pre>
     1) Eclipse IDE
     2) Xampp
