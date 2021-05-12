@@ -3,11 +3,11 @@
 ## This project was made as a part of Virtusa Placement Drive 2020.
 
 RQUIREMENTS :-
-        1) Eclipse IDE
-        2) Xampp
-        3) Apache Tomcat v9.0
-        4) MySQL Server
-        5) JAR Files
+1) Eclipse IDE
+2) Xampp
+3) Apache Tomcat v9.0
+4) MySQL Server
+5) JAR Files
                 * activation-1.1.jar
                 * barcode4j.jar
                 * itextpdf-5.5.13.1.jar
